@@ -1,0 +1,2 @@
+iterations,nodes,accepted,rejected_rescue_tested,rescued,goal_rescued,success,termination
+2000,12,11,128,22,0,0,max_iterations

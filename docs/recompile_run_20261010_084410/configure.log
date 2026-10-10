@@ -1,0 +1,31 @@
+-- The CXX compiler identification is Clang 18.1.6
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Check for working CXX compiler: D:/codex_talk/project_1/tmp/zig-cxx.cmd
+-- Check for working CXX compiler: D:/codex_talk/project_1/tmp/zig-cxx.cmd - works
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (deprecated) at D:/codex_talk/project_1/tmp/yaml-cpp-0.8.0/CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+This warning is for project developers.  Use -Wno-author or -Wno-deprecated
+to suppress it.
+
+CMake Warning (author) at D:/codex_talk/project_1/tmp/simd-build-tools/cmake/data/share/cmake-4.4/Modules/GNUInstallDirs.cmake:448 (message):
+  Unable to determine default CMAKE_INSTALL_LIBDIR directory because no
+  target architecture is known.  Please enable at least one language before
+  including GNUInstallDirs.
+Call Stack (most recent call first):
+  D:/codex_talk/project_1/tmp/simd-build-tools/cmake/data/share/cmake-4.4/Modules/GNUInstallDirs.cmake:301 (_GNUInstallDirs_LIBDIR_get_default)
+  D:/codex_talk/project_1/tmp/simd-build-tools/cmake/data/share/cmake-4.4/Modules/GNUInstallDirs.cmake:301 (cmake_language)
+  D:/codex_talk/project_1/tmp/simd-build-tools/cmake/data/share/cmake-4.4/Modules/GNUInstallDirs.cmake:547 (_GNUInstallDirs_cache_path)
+  D:/codex_talk/project_1/tmp/yaml-cpp-0.8.0/CMakeLists.txt:20 (include)
+This warning is for project developers.  Use -Wno-author to suppress it.
+
+-- Configuring done (12.8s)
+-- Generating done (0.6s)
+-- Build files have been written to: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_float32_strict_20261010/build_recompiled_20261010_084410

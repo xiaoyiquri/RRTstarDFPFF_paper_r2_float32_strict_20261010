@@ -1,0 +1,80 @@
+[
+  {
+    "case": "quad2d_bugtrap",
+    "baseline_first_cost": 18.8593692779541,
+    "baseline_first_length": 10.671226525261078,
+    "anytime_success": 1,
+    "anytime_first_time": 0.0029587999999999997,
+    "anytime_first_cost": 18.8593692779541,
+    "anytime_final_cost": 17.999961853027344,
+    "anytime_final_length": 10.806002570306461,
+    "rewires": 3497,
+    "nodes": 7519,
+    "search_time": 3.0001276
+  },
+  {
+    "case": "quad2d_hole",
+    "baseline_first_cost": 10.05509090423584,
+    "baseline_first_length": 4.896235975753721,
+    "anytime_success": 1,
+    "anytime_first_time": 0.0013737999999999999,
+    "anytime_first_cost": 9.38458251953125,
+    "anytime_final_cost": 7.8857574462890625,
+    "anytime_final_length": 4.511541535377969,
+    "rewires": 2338,
+    "nodes": 7632,
+    "search_time": 3.0001347
+  },
+  {
+    "case": "quad3d_block",
+    "baseline_first_cost": 11.754268646240234,
+    "baseline_first_length": 8.01479312439614,
+    "anytime_success": 1,
+    "anytime_first_time": 0.0005475,
+    "anytime_first_cost": 11.754268646240234,
+    "anytime_final_cost": 11.197004318237305,
+    "anytime_final_length": 7.527850835535955,
+    "rewires": 5204,
+    "nodes": 10034,
+    "search_time": 3.0007362
+  },
+  {
+    "case": "quad3d_window",
+    "baseline_first_cost": 10.777620315551758,
+    "baseline_first_length": 6.220662276931473,
+    "anytime_success": 1,
+    "anytime_first_time": 0.000566,
+    "anytime_first_cost": 10.777620315551758,
+    "anytime_final_cost": 9.293787002563477,
+    "anytime_final_length": 5.042274886601188,
+    "rewires": 3355,
+    "nodes": 5731,
+    "search_time": 3.0001584
+  },
+  {
+    "case": "uni_bugtrap",
+    "baseline_first_cost": 25.664539337158203,
+    "baseline_first_length": 12.070114399517774,
+    "anytime_success": 1,
+    "anytime_first_time": 0.1686934,
+    "anytime_first_cost": 25.664539337158203,
+    "anytime_final_cost": 24.70185089111328,
+    "anytime_final_length": 11.60201189050811,
+    "rewires": 247,
+    "nodes": 2930,
+    "search_time": 3.0012867
+  },
+  {
+    "case": "uni_wall",
+    "baseline_first_cost": 8.03736400604248,
+    "baseline_first_length": 3.3145482907647685,
+    "anytime_success": 1,
+    "anytime_first_time": 0.0036037,
+    "anytime_first_cost": 8.03736400604248,
+    "anytime_final_cost": 7.641670227050781,
+    "anytime_final_length": 3.263351230205485,
+    "rewires": 26,
+    "nodes": 1775,
+    "search_time": 3.0001266
+  }
+]

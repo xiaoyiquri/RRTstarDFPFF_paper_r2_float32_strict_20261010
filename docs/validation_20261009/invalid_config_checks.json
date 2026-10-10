@@ -1,0 +1,10 @@
+{
+  "unknown_policy": {
+    "return_code": 1,
+    "message": "Error: Unknown PFF time_policy: invalid_policy"
+  },
+  "nonzero_optimal_samples": {
+    "return_code": 1,
+    "message": "Error: optimal_only requires additional_time_samples=0"
+  }
+}

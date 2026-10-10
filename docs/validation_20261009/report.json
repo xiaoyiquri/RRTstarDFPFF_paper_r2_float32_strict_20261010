@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-09",
+  "cpp_tests": 16,
+  "python_tests": 9,
+  "build": "Release",
+  "binary_sha256": "a181fbca7f680c8457d8df035fcfc0563978057444540ebf4c20d09faf7116f8",
+  "original_integrity": {
+    "original_root": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_noguidance_20261006",
+    "checked_files": 219,
+    "changed_or_missing": [],
+    "added": [],
+    "original_unchanged": true
+  },
+  "smoke_runs": {
+    "latency_candidate_zero": {
+      "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\latency_candidate_zero",
+      "return_code": 2,
+      "contract": {
+        "checked_runs": 6,
+        "sampled_successes": 4,
+        "contract_checks": "passed"
+      }
+    },
+    "latency_optimal_only": {
+      "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\latency_optimal_only",
+      "return_code": 2,
+      "contract": {
+        "checked_runs": 6,
+        "sampled_successes": 4,
+        "contract_checks": "passed"
+      }
+    },
+    "anytime_optimal_only": {
+      "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\anytime_optimal_only",
+      "return_code": 2,
+      "contract": {
+        "checked_runs": 6,
+        "sampled_successes": 4,
+        "contract_checks": "passed"
+      }
+    },
+    "shortcut_optimal": {
+      "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\shortcut_optimal",
+      "return_code": 2,
+      "contract": {
+        "checked_runs": 1,
+        "sampled_successes": 0,
+        "contract_checks": "passed"
+      }
+    },
+    "shortcut_quad2d": {
+      "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\shortcut_quad2d",
+      "return_code": 0,
+      "contract": {
+        "checked_runs": 1,
+        "sampled_successes": 1,
+        "contract_checks": "passed"
+      }
+    }
+  },
+  "visualizations": {
+    "latency_optimal_only": {
+      "index": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\latency_optimal_only\\figures_official_raw\\index.html",
+      "pngs": 4
+    },
+    "anytime_optimal_only": {
+      "index": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\anytime_optimal_only\\figures_official_raw\\index.html",
+      "pngs": 4
+    },
+    "shortcut_quad2d": {
+      "index": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\shortcut_quad2d\\figures_official_raw\\index.html",
+      "pngs": 1
+    }
+  },
+  "modified_or_added_files": {
+    "pff/r2_float_kernel.h": "8482c7f2bbae5e8561d9aa7aec450e53aecf3172a8e522164c4159896a066341",
+    "benchmark/production_runner.cpp": "a8a615df0bd2987c5074f4b975e98d0cec6337a39d5417a55714d13510db614e",
+    "tools/run_six.py": "93cccd5f62bbe9033c99c61c01eb710bc942453e535c04c99a45919bcea24d06",
+    "tools/verify_results.py": "14e54787c6f1ea806b1ec358a4c2fec5023cd346eb6f4f904dcaa345e97bc1a5",
+    "tests/test_float32.cpp": "fd3e92c910526627b7a3798188435f5f220628efe4b8a3ce84cc15f610fdf99a",
+    "tests/test_paper_profile.cpp": "874ab80a4b9ce6e76f6f84caae38836b7f3495f07f562cbe0ae6cee4b925bd44",
+    "tests/test_run_six.py": "3d6ea691b06e46dcbcf3d07bb4fe1aea291f27d5ffb8b649579bc81ac83f6b14",
+    "README.md": "e6aee39258814e14c1fe073ae4b8c7aa8c8a74b82355a9a9145792e283e23212",
+    "修改说明.md": "4b74b2dd1a0bf63fd47e7a7f4552ba6f148c3a355a1bb688dd527ec87649f871",
+    "运行指令.md": "568ed262e82ba30aad8c41450e80b27257efc65be8d008dd90d40d35b9a4a475",
+    "docs/float32_strict_implementation.md": "b53b4e8efdb493fa4f462417db778e7e541df2a8be5789c46390762706959636",
+    "docs/latency_anytime_tstar_20261009.md": "15433e48aa47300598d00b400bd9ef5e280dc3b1e4e6fb1751a2b1bb7bf15930",
+    "benchmark/config/uni_bugtrap.yaml": "9e78affc077d0d58b9bddbda0df7671f529ffc725f74ff8d093f44f1d238cd6d",
+    "benchmark/config/anytime/uni_bugtrap.yaml": "61946138a981781e8d770a917cef4fe77f5f7380ec0db920989847f5c4ebe37d",
+    "benchmark/config/uni_wall.yaml": "5807adbb076c395b605fda08d5231e1846e04fd511084a92f25e9c53a4d7146c",
+    "benchmark/config/anytime/uni_wall.yaml": "7c40284fafcb9faee0bafeedd2c6d06e662461fa11a0565316abdf09ffcde093",
+    "benchmark/config/quad2d_bugtrap.yaml": "59894610242e472fb55816d55a36247162b47fc285ec2da5c16475d3e9a6c4ad",
+    "benchmark/config/anytime/quad2d_bugtrap.yaml": "3d44e42c2997b48b5a71efc13534ab38a6e011fda48375b9d2b15bc61e1b114e",
+    "benchmark/config/quad2d_hole.yaml": "8cc43e8c5638c006474b8093c5f51245efa5d37b775d3f29447c2e23b06c94b0",
+    "benchmark/config/anytime/quad2d_hole.yaml": "970a0fa8f64a865098b8fc058d4d01027c827c26280ebee4ccc62ba0fd1c2065",
+    "benchmark/config/quad3d_block.yaml": "1bdbd226f215274aa806fa73bfcf6904c8507d9527e6d7a3f9880702480079ce",
+    "benchmark/config/anytime/quad3d_block.yaml": "73e08986f55cbdf5cfc2e4750c523991340914818ee20ed150d41c935911a3a9",
+    "benchmark/config/quad3d_window.yaml": "deb4f2291d48b8b80f0f6d9791f273c5995fc8c47a64054467484e5f277a7d20",
+    "benchmark/config/anytime/quad3d_window.yaml": "430cc8895747ef8432be96530e1845522c5ec46364e1f6782028f0b6903d772a",
+    "summary.md": "07209abc3bc2f4cffb678f85ad3de418fec76149ef2e03c120fcc66813273eab",
+    "交付说明.md": "5856f789cdfecfedce4d4d3676e39e4d9fdf3372142e9ed8515df5f6e9ff88b3"
+  },
+  "limitations": [
+    "Windows smoke checks only; formal 20 seeds / 120 s not run",
+    "Both unicycle cases timed out in 2-3 s seed-41 checks; not a formal success-rate conclusion",
+    "A-prime and sampled collision semantics unchanged"
+  ]
+}

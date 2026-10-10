@@ -1,0 +1,7 @@
+float32_production, anytime, affinity=[0]; sampled SIMD validation
+uni_bugtrap: starting
+uni_bugtrap: sampled success 1/1, exit=0
+uni_wall: starting
+uni_wall: sampled success 1/1, exit=0
+Results: D:\codex_talk\project_1\project_code\RRTstarDFPFF_paper_r2_float32_strict_20261010\results\quality_audit_20261010_092412\unicycle_anytime
+

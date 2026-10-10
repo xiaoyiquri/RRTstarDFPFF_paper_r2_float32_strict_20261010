@@ -1,0 +1,14 @@
+test_anytime (test_run_six.RunnerPaths.test_anytime) ... ok
+test_candidate_set_without_uniform_times (test_run_six.RunnerPaths.test_candidate_set_without_uniform_times) ... ok
+test_default_profile_paths (test_run_six.RunnerPaths.test_default_profile_paths) ... ok
+test_full_df_paths (test_run_six.RunnerPaths.test_full_df_paths) ... ok
+test_independent_ab_switches (test_run_six.RunnerPaths.test_independent_ab_switches) ... ok
+test_invalid_time_overrides (test_run_six.RunnerPaths.test_invalid_time_overrides) ... ok
+test_legacy_r2 (test_run_six.RunnerPaths.test_legacy_r2) ... ok
+test_optional_flask_shortcut (test_run_six.RunnerPaths.test_optional_flask_shortcut) ... ok
+test_original_candidate_set_ablation (test_run_six.RunnerPaths.test_original_candidate_set_ablation) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 5.262s
+
+OK

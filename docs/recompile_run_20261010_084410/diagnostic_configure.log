@@ -1,0 +1,10 @@
+-- The CXX compiler identification is Clang 18.1.6
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Check for working CXX compiler: D:/codex_talk/project_1/tmp/zig-cxx.cmd
+-- Check for working CXX compiler: D:/codex_talk/project_1/tmp/zig-cxx.cmd - works
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (16.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/codex_talk/project_1/project_code/RRTstarDFPFF_paper_r2_float32_strict_20261010/build_recompiled_diagnostic_20261010_084410

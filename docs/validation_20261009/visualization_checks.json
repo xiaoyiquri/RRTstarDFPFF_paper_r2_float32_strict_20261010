@@ -1,0 +1,14 @@
+{
+  "latency_optimal_only": {
+    "index": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\latency_optimal_only\\figures_official_raw\\index.html",
+    "pngs": 4
+  },
+  "anytime_optimal_only": {
+    "index": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\anytime_optimal_only\\figures_official_raw\\index.html",
+    "pngs": 4
+  },
+  "shortcut_quad2d": {
+    "index": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\shortcut_quad2d\\figures_official_raw\\index.html",
+    "pngs": 1
+  }
+}

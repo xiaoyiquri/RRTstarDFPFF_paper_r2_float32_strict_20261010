@@ -1,0 +1,47 @@
+{
+  "latency_candidate_zero": {
+    "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\latency_candidate_zero",
+    "return_code": 2,
+    "contract": {
+      "checked_runs": 6,
+      "sampled_successes": 4,
+      "contract_checks": "passed"
+    }
+  },
+  "latency_optimal_only": {
+    "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\latency_optimal_only",
+    "return_code": 2,
+    "contract": {
+      "checked_runs": 6,
+      "sampled_successes": 4,
+      "contract_checks": "passed"
+    }
+  },
+  "anytime_optimal_only": {
+    "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\anytime_optimal_only",
+    "return_code": 2,
+    "contract": {
+      "checked_runs": 6,
+      "sampled_successes": 4,
+      "contract_checks": "passed"
+    }
+  },
+  "shortcut_optimal": {
+    "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\shortcut_optimal",
+    "return_code": 2,
+    "contract": {
+      "checked_runs": 1,
+      "sampled_successes": 0,
+      "contract_checks": "passed"
+    }
+  },
+  "shortcut_quad2d": {
+    "experiment": "D:\\codex_talk\\project_1\\project_code\\RRTstarDFPFF_paper_r2_float32_strict_20261007\\results\\protocol_tstar_validation_20261009_225317\\shortcut_quad2d",
+    "return_code": 0,
+    "contract": {
+      "checked_runs": 1,
+      "sampled_successes": 1,
+      "contract_checks": "passed"
+    }
+  }
+}

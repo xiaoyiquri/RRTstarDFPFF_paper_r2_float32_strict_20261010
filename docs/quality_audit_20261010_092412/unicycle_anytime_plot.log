@@ -1,0 +1,4 @@
+Output: D:\codex_talk\project_1\project_code\RRTstarDFPFF_paper_r2_float32_strict_20261010\results\quality_audit_20261010_092412\unicycle_anytime\figures_official
+uni_bugtrap: first_solution=0.16869339999999999 s | path_length=11.602011890508111 m | duration=22.729440689086914 s
+uni_wall: first_solution=0.0036037 s | path_length=3.263351230205485 m | duration=6.9433331489562988 s
+
